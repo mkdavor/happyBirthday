@@ -104,8 +104,8 @@ const panels = {
       <p>A carefully curated gallery of important Ivica moments.</p>
       <div class="picture-grid">
         <button class="picture-card" data-picture="pic1.png" data-title="Swimming Pool"><div class="picture-art"><img src="pic1.png" alt="Ivica at the swimming pool"></div><strong>Swimming Pool</strong></button>
-        <button class="picture-card" data-picture="pic2.png" data-title="Conquering the World"><div class="picture-art"><img src="pic2.png" alt="Ivica conquering the world"></div><strong>Conquering the World</strong></button>
-        <button class="picture-card" data-picture="pic3.png" data-title="King Mode"><div class="picture-art"><img src="pic3.png" alt="Ivica in king mode"></div><strong>King Mode</strong></button>
+        <button class="picture-card" data-picture="pic2.png" data-title="New Car"><div class="picture-art"><img src="pic2.png" alt="Ivica with his new car"></div><strong>New Car</strong></button>
+        <button class="picture-card" data-picture="pic3.png" data-title="Conquiring the World"><div class="picture-art"><img src="pic3.png" alt="Ivica conquiring the world"></div><strong>Conquiring the World</strong></button>
       </div>`
   },
   exit: {
